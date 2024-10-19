@@ -36,7 +36,7 @@ export default async function Page() {
           I will share some tech related things and my ideas here.
           <br />
         </p>
-#        <NowPlayingInit />
+        <NowPlayingInit />
         <div className={'mt-6 flex items-center'}>
           <Link href="https://github.com/Dr-T" target="_blank">
             <button
