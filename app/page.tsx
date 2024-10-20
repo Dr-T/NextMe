@@ -57,13 +57,13 @@ export default async function Page() {
             Monitor
           </Link>
           <p className="mx-1 text-xs font-medium">/</p>
-#          <Link
-#            href={'https://changelog.buycoffee.top'}
-#            target="_blank"
-#            className="text-xs font-medium"
-#          >
-#            Changelog
-#          </Link>
+//          <Link
+//            href={'https://changelog.buycoffee.top'}
+//            target="_blank"
+//            className="text-xs font-medium"
+//          >
+//            Changelog
+//          </Link>
         </div>
       </section>
       <Photos />
